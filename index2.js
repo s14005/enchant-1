@@ -2,7 +2,7 @@
 
 enchant();
 
-var CHARA_IMAGE = "///home/s13008/enchant/chara2.gif";
+var CHARA_IMAGE = "/home/s14005/Desktop/enchant-1/js/chara2.gif";
 
 
 window.onload = function() {
